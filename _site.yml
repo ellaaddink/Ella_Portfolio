@@ -1,5 +1,6 @@
 navbar: 
   title: Ella Addink
+  search: true
   left:
   - text: "About Me"
     href: overview.html
@@ -11,7 +12,6 @@ navbar:
     href: skills.html
   - text: "Resume"
     href: resume.html
-  search: true
 output:
   html_document:
     theme: flatly
