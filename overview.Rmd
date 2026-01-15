@@ -1,7 +1,7 @@
 ---
-title: "Content"
+title: "About Me"
 output: html_document
 date: "2026-01-15"
 ---
 
--   [File 1](content/page1.html)
+
