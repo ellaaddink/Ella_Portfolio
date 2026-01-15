@@ -4,7 +4,8 @@ navbar:
   - text: "Me"
     href: content.html
   - text: "Projects"
-    href: projects.html
+    href: projects
+  search: true
 output:
   html_document:
     theme: flatly
