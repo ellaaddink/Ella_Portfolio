@@ -9,6 +9,3 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome to Ella's website!!
 
-Will include:
-
--   wetwt

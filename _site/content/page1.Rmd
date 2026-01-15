@@ -1,7 +1,0 @@
----
-title: "Page 1"
-output: html_document
-date: "2026-01-15"
----
-
-This is page 1. yayyyyy
