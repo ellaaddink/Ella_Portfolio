@@ -1,10 +1,16 @@
 navbar: 
   title: Title
   left:
-  - text: "Me"
-    href: content.html
+  - text: "About Me"
+    href: overview.html
   - text: "Projects"
     href: projects.html
+  - text: "Experience"
+    href: experience.html
+  - text: "Skills"
+    href: skills.html
+  - text: "Resume"
+    href: resume.html
   search: true
 output:
   html_document:
