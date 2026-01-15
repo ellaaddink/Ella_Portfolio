@@ -1,8 +1,10 @@
 navbar: 
   title: Title
   left:
-  - text: Main page that links to files
+  - text: "Me"
     href: content.html
+  - text: "Projects"
+    href: projects.html
 output:
   html_document:
     theme: flatly
