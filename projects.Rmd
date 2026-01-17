@@ -3,6 +3,12 @@ title: "Projects"
 output: html_document
 ---
 
-```{r, echo=FALSE, fig.align="center", out.width="50%"}
+```{r fig-side-by-side, fig.show="hold", out.width="40%", fig.align="center"}
+# Image 1
 knitr::include_graphics("date-accuracy.png")
+# Caption for Image 1 (can be text below image in Markdown)
+
+# Image 2
+knitr::include_graphics("date-accuracy.png")
+# Caption for Image 2 (can be text below image in Markdown)
 ```
