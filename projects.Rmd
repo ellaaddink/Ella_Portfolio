@@ -3,4 +3,6 @@ title: "Projects"
 output: html_document
 ---
 
-Here is where my projects go...
+```{r, echo=FALSE, fig.align="center", out.width="50%"}
+knitr::include_graphics("date-accuracy.png")
+```
