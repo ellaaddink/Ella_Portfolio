@@ -1,9 +1,0 @@
----
-title: "Projects"
-output: html_document
----
-
-```{r image-grobs, fig.show="hold", out.width="40%", fig.align="default"}
-knitr::include_graphics("date-accuracy.png")
-knitr::include_graphics("date-accuracy.png")
-```
