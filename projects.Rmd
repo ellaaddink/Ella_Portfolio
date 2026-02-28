@@ -1,0 +1,6 @@
+---
+title: "projects"
+output: html_document
+---
+
+[Project 1](projects/project1.html)
